@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/demoo_first/static/css/main.b3c4f46d.css",
+    "main.js": "/demoo_first/static/js/main.65ba7d64.js",
+    "static/media/image.png": "/demoo_first/static/media/image.8929b92b82c02d1a26eb.png",
+    "index.html": "/demoo_first/index.html",
+    "main.b3c4f46d.css.map": "/demoo_first/static/css/main.b3c4f46d.css.map",
+    "main.65ba7d64.js.map": "/demoo_first/static/js/main.65ba7d64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3c4f46d.css",
+    "static/js/main.65ba7d64.js"
+  ]
+}
